@@ -1,4 +1,4 @@
-# API Automation with Postman
+# API Testing
 
 This repository contains API tests for the [Simple Books API](https://app.simplbooks.com/api-documentation/) using [Postman](https://www.postman.com/) and JavaScript. It uses a Bearer Token for authentication, with dynamic pre-request scripts and assertions to validate response status, content, and reliability in both positive and negative scenarios.
 
@@ -6,7 +6,7 @@ This repository contains API tests for the [Simple Books API](https://app.simplb
 
 1. Clone repository:
    ```shell
-   git clone https://github.com/Eqnesto/Project.git
+   git clone https://github.com/Eqnesto/API-Testing.git
    ```
 1. Open [Postman](https://www.postman.com/downloads/) and import the collection and environment files.
 2. Select the environment.
